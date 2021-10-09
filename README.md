@@ -4,5 +4,6 @@
 
 - Valine: https://cdn.jsdelivr.net/gh/Hacker-C/mycdn@master/Valine.min.js
 - av-min: https://cdn.jsdelivr.net/gh/Hacker-C/mycdn@master/av-min.js
+- https://cdn.jsdelivr.net/gh/Hacker-C/mycdn@master/anchor.min.js
 
 
